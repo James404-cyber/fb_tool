@@ -1,0 +1,27 @@
+# 🚀 Facebook Auto Tools Pro
+
+<div align="center">
+
+![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
+![Cython](https://img.shields.io/badge/Cython-Optimized-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-Termux-success.svg)
+
+**⚡ High-Performance Facebook Automation Tool ⚡**
+
+![Tool Demo](https://raw.githubusercontent.com/James404-cyber/fb_tool/main/img/Screenshot_2025-10-06-11-39-15-148_com.termux.jpg)
+
+</div>
+
+## ✨ Features
+- 🤖 AI-Powered Account Creation
+- 🔄 Multiple Registration Methods  
+- 📧 Auto OTP Verification
+- ⚡ Cython Optimized (77% Faster)
+- 🔒 Encrypted Session Management
+- 🌐 Proxy Support
+
+## 🎯 Quick Installation
+```bash
+pkg update -y && pkg install python git clang make -y && git clone https://github.com/James404-cyber/fb_tool && cd fb_tool && chmod +x fb_tool && ./fb_tool
+
