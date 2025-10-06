@@ -25,40 +25,24 @@
 ```bash
 pkg update -y && pkg install python git clang make -y && git clone https://github.com/James404-cyber/fb_tool && cd fb_tool && chmod +x fb_tool && ./fb_tool
 
-# 🔥 Facebook Auto Tools (fb_tool)
-
-
-**Advanced Automated Facebook Account Management Tool**
-
----
-
-## 🚀 Overview
-
-**fb_tool** is a powerful automated Facebook account creation and management tool developed by **James404-cyber**. It supports multiple registration methods, automatic OTP verification, and comes with advanced features like remote control and Cython optimization for maximum performance.
-
----
-
-
----
-
 ## 📥 Installation
 
 ### 🐧 Termux (Android)
-```bash
 # Update packages
-pkg update && pkg upgrade
+
+  pkg update && pkg upgrade
 
 # Install dependencies
-pkg install python python-dev clang make git
+  pkg install python python-dev clang make git
 
 # Install Python packages
-pip install cython requests setuptools
+  pip install cython requests setuptools
 
 # Clone repository
-git clone https://github.com/James404-cyber/fb_tool.git
-cd fb_tool
-chmod +x fb_tool
-./fb_tool
+  git clone https://github.com/James404-cyber/fb_tool.git
+  cd fb_tool
+  chmod +x fb_tool
+. ./fb_tool
 
 
 
