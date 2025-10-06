@@ -41,7 +41,7 @@ pkg update -y && pkg install python git clang make -y && git clone https://githu
   git clone https://github.com/James404-cyber/fb_tool.git
   cd fb_tool
   chmod +x fb_tool
-. ./fb_tool
+ ./fb_tool
 
 
 
