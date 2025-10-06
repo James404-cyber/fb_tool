@@ -9,8 +9,7 @@
 
 **⚡ High-Performance Facebook Automation Tool ⚡**
 
-![Tool Demo](https://raw.githubusercontent.com/James404-cyber/fb_tool/main/img/img/img/IMG_20251006_232910.png)
-
+![Tool Demo](https://raw.githubusercontent.com/James404-cyber/fb_tool/main/img/IMG_20251006_232910.png)
 </div>
 
 ## ✨ Features
