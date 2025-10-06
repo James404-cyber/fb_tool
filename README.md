@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
+![Python](https://img.shields.io/badge/Python-3.12%2B-green.svg)
 ![Cython](https://img.shields.io/badge/Cython-Optimized-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Termux-success.svg)
 
